@@ -1,0 +1,35 @@
+.form1{
+      background-image:url("nature1.jpg");
+      background-repeat:no-repeat;
+}  
+
+.usrimage{
+    height:150px;
+    width:220px;
+    border-radius:10px 3px 45px 65px;
+    border:2px solid red;
+    cursor:not-allowed;   
+
+}
+.usrimage:hover{
+    height:190px;
+    width:260px;
+    border-radius:10px 3px 45px 65px;
+    border:2px solid yellow;
+    cursor:not-allowed;  
+    border-style:dotted; 
+
+}
+
+
+
+.cur2{
+      cursor:progress;
+}
+.cur3{
+      cursor:se-resize;;
+}
+.cur4{
+      cursor:zoom-out;
+
+}  
