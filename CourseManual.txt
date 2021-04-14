@@ -1,0 +1,13 @@
+
+Web Technology
+  Web Designing
+1.HTML 5
+2.CSS 3
+ *JavaScript
+3.C#, ASP.net
+4.Data Base Management System (Ms SQL Server)
+
+1.Cloud Computing: Fundamental Knowledge of AWS, Creation of EC2 Instance (Windows 2012 R2/ 2016 only)
+2.Fundamental Knowledge of Repositories: Git Hub (Gist)
+3.Automation Testing Tools : Fundamental Knowledge Seleneum IDE Web Driver.
+
